@@ -1,3 +1,5 @@
+//https://github.com/BuildBot42/discord-scam-links
+
 101nitro.com
 1nitro.club
 appnitro-discord.com
@@ -680,3 +682,5 @@ disccord-app.club
 discord-niitro.ru
 discordful.ru
 discord-main.ru.com
+
+//https://github.com/OneAndonlyFinbar/discord-phishing-links

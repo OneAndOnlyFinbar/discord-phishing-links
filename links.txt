@@ -675,6 +675,9 @@ stearncommunity.link
 stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
+
+//https://github.com/OneAndonlyFinbar/discord-phishing-links
+
 discord-full.xyz
 disccord-club.com
 discrod-glft.com
@@ -682,5 +685,3 @@ disccord-app.club
 discord-niitro.ru
 discordful.ru
 discord-main.ru.com
-
-//https://github.com/OneAndonlyFinbar/discord-phishing-links

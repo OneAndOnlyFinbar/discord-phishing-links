@@ -685,5 +685,3 @@ disccord-app.club
 discord-niitro.ru
 discordful.ru
 discord-main.ru.com
-
-test.com
